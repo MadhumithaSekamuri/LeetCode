@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/MadhumithaSekamuri/LeetCode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
